@@ -1,5 +1,5 @@
 updated_latest_fixedv2
-https://raw.githubusercontent.com/TopHatto/EditedThing
+https://raw.githubusercontent.com/TopHatto/EditedThing/master/EasyExploitDLL.dll
 false
 vr
 dll
