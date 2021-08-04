@@ -1,0 +1,1 @@
+if not game:IsLoaded()then game.Loaded:Wait()end;if game.PlaceId~=2377868063 and info and not ree then info"Loaded"end;if game.PlaceId==2377868063 then getgenv().print=function()end;getgenv().warn=function()end;getgenv().info=function()end end

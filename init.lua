@@ -1,0 +1,2 @@
+if not game:IsLoaded()then game.Loaded:Wait()end;if game.PlaceId~=2377868063 and ree then CreateMessage'Has been re-loaded'else if game.PlaceId~=2377868063 then CreateMessage'Has been loaded'end end;if game.PlaceId==2377868063 then getgenv().print=function()end;getgenv().warn=function()end;getgenv().info=function()end end
+getgenv().getsenv=function(a)for b,c in next,getreg()do if type(c)=='function'and getfenv(c).script==a then return getfenv(c)end end;return nil end

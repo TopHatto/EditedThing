@@ -1,0 +1,5 @@
+updated_latest_fixedv2
+https://raw.githubusercontent.com/TopHatto/EditedThing
+false
+vr
+dll
